@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eisteemarmelade
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Java
 - 📫 How to reach me eisteemarmelade@gmail.com
 
 <!---
